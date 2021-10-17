@@ -1,0 +1,19 @@
+Step1 : Add Resources
+------------------------------------------------
+add your picture and resume in root directory
+================================================
+
+Step2 : Edit HTML
+------------------------------------------------
+change resume in index.html (line 59)
+replace # with your LinkedIn profile (line 102)
+replace # with your Facebook profile (line 103)
+replace # with your Github profile (line 104)
+================================================
+
+Step3 : Edit CSS
+------------------------------------------------
+change image in styles.css (line 12)
+change image in styles.css (line 104)
+change image in styles.css (line 128)
+================================================
